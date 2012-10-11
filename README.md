@@ -1,0 +1,1 @@
+The email files in this repository are responsive to screen widths.
